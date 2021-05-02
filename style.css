@@ -1,0 +1,65 @@
+h1 { color: #7c795d;
+    font-family: 'Trocchi', serif;
+    font-size: 45px;
+    font-weight: normal;
+    line-height: 48px;
+    margin: 0;
+    text-align: center;
+}
+
+
+h2 { color: #7c795d;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 32px;
+    margin: 0 0 24px;
+    text-align: center;
+}
+
+ul li {
+    margin: 20px;
+}
+
+.badcolor{
+    color: olive;
+    font-size: 30px;
+}
+.anotherbadcolor{
+    color: sienna;
+    font-size: 30px;
+}
+.justwhy {
+    color: rosybrown;
+    font-size: 30px;
+}
+
+
+.Arial{
+    font-family: Arial;
+    font-size: 80px;
+}
+.Verdana{
+    font-family: Verdana;
+    font-size: 55px;
+}
+.Vivaldi {
+    font-family: Vivaldi;
+    font-size: 25px;
+}
+.Symbol {
+    font-family: Symbol;
+    font-size: 40px;
+}
+
+
+
+
+
+
+
+
+
+html,body{
+    background-color: khaki;
+}
